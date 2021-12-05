@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Dung Ngoc Nguyen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Dung Ngoc Nguyen</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Dung Ngoc Nguyen</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar2.jpg</url>
       <title>Dung Ngoc Nguyen</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Algorithms for graphical models with symmetries</title>
+      <link>/project/algorithms-for-graphical-models-with-symmetries/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/project/algorithms-for-graphical-models-with-symmetries/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>

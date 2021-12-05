@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tag/algorithms-for-graphical-models-with-symmetries/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/algorithms-for-graphical-models-with-symmetries/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/privacy/</loc>
     <priority>0</priority>
   </url><url>
@@ -12,12 +27,8 @@
   </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/</loc>
-  </url><url>
     <loc>/author/dung-ngoc-nguyen/</loc>
   </url><url>
     <loc>/publication_types/</loc>
-  </url><url>
-    <loc>/tags/</loc>
   </url>
 </urlset>
