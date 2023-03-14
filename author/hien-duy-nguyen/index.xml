@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hien Duy Nguyen | Dung Ngoc Nguyen</title>
+    <link>/author/hien-duy-nguyen/</link>
+      <atom:link href="/author/hien-duy-nguyen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hien Duy Nguyen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Dung Ngoc Nguyen</copyright><lastBuildDate>Sat, 11 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>Hien Duy Nguyen</title>
+      <link>/author/hien-duy-nguyen/</link>
+    </image>
+    
+    <item>
+      <title>A non-asymptotic theory for model selection in high-dimensional mixture of experts via joint rank and variable selection</title>
+      <link>/publication/nguyen-non-asymptotic-2023/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen-non-asymptotic-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

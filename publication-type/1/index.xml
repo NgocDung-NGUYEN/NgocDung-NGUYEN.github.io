@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Dung Ngoc Nguyen</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Dung Ngoc Nguyen</copyright><lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Model inclusion lattice of coloured Gaussian graphical models for paired data</title>
+      <link>/publication/pmlr-v186-roverato22a/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/pmlr-v186-roverato22a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

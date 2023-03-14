@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dung Ngoc Nguyen</title>
+    <link>/author/dung-ngoc-nguyen/</link>
+      <atom:link href="/author/dung-ngoc-nguyen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dung Ngoc Nguyen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Dung Ngoc Nguyen</copyright><lastBuildDate>Thu, 09 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>Dung Ngoc Nguyen</title>
+      <link>/author/dung-ngoc-nguyen/</link>
+    </image>
+    
+    <item>
+      <title>Exploration of the search space of Gaussian graphical models for paired data</title>
+      <link>/publication/arxiv05561-roverato-nguyen23/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/arxiv05561-roverato-nguyen23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-asymptotic theory for model selection in high-dimensional mixture of experts via joint rank and variable selection</title>
+      <link>/publication/nguyen-non-asymptotic-2023/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen-non-asymptotic-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On model selection of coloured Gaussian graphical models for paired data</title>
+      <link>/talk/icsds2022/</link>
+      <pubDate>Tue, 13 Dec 2022 09:00:00 +0000</pubDate>
+      <guid>/talk/icsds2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model inclusion lattice of coloured Gaussian graphical models for paired data</title>
+      <link>/publication/pmlr-v186-roverato22a/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/pmlr-v186-roverato22a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model selection for coloured graphical models for paired data</title>
+      <link>/talk/unipd800years2022/</link>
+      <pubDate>Wed, 21 Sep 2022 09:00:00 +0000</pubDate>
+      <guid>/talk/unipd800years2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

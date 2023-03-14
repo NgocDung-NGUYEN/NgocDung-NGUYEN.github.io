@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dung Ngoc Nguyen</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dung Ngoc Nguyen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Dung Ngoc Nguyen</copyright><lastBuildDate>Thu, 09 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>Dung Ngoc Nguyen</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Exploration of the search space of Gaussian graphical models for paired data</title>
+      <link>/publication/arxiv05561-roverato-nguyen23/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/arxiv05561-roverato-nguyen23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-asymptotic theory for model selection in high-dimensional mixture of experts via joint rank and variable selection</title>
+      <link>/publication/nguyen-non-asymptotic-2023/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen-non-asymptotic-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On model selection of coloured Gaussian graphical models for paired data</title>
+      <link>/talk/icsds2022/</link>
+      <pubDate>Tue, 13 Dec 2022 09:00:00 +0000</pubDate>
+      <guid>/talk/icsds2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model inclusion lattice of coloured Gaussian graphical models for paired data</title>
+      <link>/publication/pmlr-v186-roverato22a/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/pmlr-v186-roverato22a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model selection for coloured graphical models for paired data</title>
+      <link>/talk/unipd800years2022/</link>
+      <pubDate>Wed, 21 Sep 2022 09:00:00 +0000</pubDate>
+      <guid>/talk/unipd800years2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms for graphical models with symmetries</title>
+      <link>/project/algorithms-for-graphical-models-with-symmetries/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/project/algorithms-for-graphical-models-with-symmetries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;h1 id=&#34;---&#34;&gt;&amp;mdash;&lt;/h1&gt;
+&lt;h1 id=&#34;commentable-false&#34;&gt;commentable: false&lt;/h1&gt;
+&lt;h1 id=&#34;date-2018-06-28t0000000100&#34;&gt;date: &amp;ldquo;2018-06-28T00:00:00+01:00&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;draft-true&#34;&gt;draft: true&lt;/h1&gt;
+&lt;h1 id=&#34;editable-false&#34;&gt;editable: false&lt;/h1&gt;
+&lt;h1 id=&#34;header&#34;&gt;header:&lt;/h1&gt;
+&lt;h1 id=&#34;caption-&#34;&gt;caption: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;image-&#34;&gt;image: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;share-false&#34;&gt;share: false&lt;/h1&gt;
+&lt;h1 id=&#34;title-privacy-policy&#34;&gt;title: Privacy Policy&lt;/h1&gt;
+&lt;h1 id=&#34;----1&#34;&gt;&amp;mdash;&lt;/h1&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;&amp;hellip;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;h1 id=&#34;---&#34;&gt;&amp;mdash;&lt;/h1&gt;
+&lt;h1 id=&#34;commentable-false&#34;&gt;commentable: false&lt;/h1&gt;
+&lt;h1 id=&#34;date-2018-06-28t0000000100&#34;&gt;date: &amp;ldquo;2018-06-28T00:00:00+01:00&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;draft-true&#34;&gt;draft: true&lt;/h1&gt;
+&lt;h1 id=&#34;editable-false&#34;&gt;editable: false&lt;/h1&gt;
+&lt;h1 id=&#34;header&#34;&gt;header:&lt;/h1&gt;
+&lt;h1 id=&#34;caption-&#34;&gt;caption: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;image-&#34;&gt;image: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;share-false&#34;&gt;share: false&lt;/h1&gt;
+&lt;h1 id=&#34;title-terms&#34;&gt;title: Terms&lt;/h1&gt;
+&lt;h1 id=&#34;----1&#34;&gt;&amp;mdash;&lt;/h1&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;&amp;hellip;&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
